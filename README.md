@@ -6,6 +6,6 @@ The basic funtions are in the code itself. I had fun with this project as I get 
 To get the code running, you will need to download 2 of the files. The text file and C file.
 
 Afterwards, run this in your terminal. 
-$ gcc random_project.c -o  random_project
-$ ./random_project
+# $ gcc random_project.c -o  random_project
+# $ ./random_project
 
