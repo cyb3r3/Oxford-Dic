@@ -1,5 +1,3 @@
-// By: Cordelli P.
-
 #include <stdio.h>
 #include <string.h>
 
